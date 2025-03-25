@@ -11,7 +11,7 @@ import "react-toastify/ReactToastify.css"
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="contact-manager-app">
       <App />
     </BrowserRouter>
   </StrictMode>

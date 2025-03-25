@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_URL = "http://localhost:9000";
+const SERVER_URL = "https://67e25fbf97fc65f53535c36c.mockapi.io";
 
 // @desc Get All Contacts
 // @route GET http://localhost:9000/contacts
